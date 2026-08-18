@@ -32,7 +32,7 @@ export function ProductCard({ product }: { product: Product }) {
             <Link
               to="/product/$slug"
               params={{ slug: product.slug }}
-              className="after:absolute hover:text-accent"
+              className="hover:text-accent"
             >
               {product.name}
             </Link>
