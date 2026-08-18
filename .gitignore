@@ -12,7 +12,7 @@ dist
 dist-ssr
 .output
 .vinxi
-.tanstack/**
+.tanstack/**no
 .nitro
 *.local
 
@@ -21,7 +21,7 @@ dist-ssr
 .dev.vars
 
 # Editor directories and files
-.vscode/*
+.vscode/*nom 
 !.vscode/extensions.json
 .idea
 .DS_Store

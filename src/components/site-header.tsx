@@ -56,6 +56,12 @@ export function SiteHeader() {
             {count}
           </span>
         </Link>
+        <a
+  href="#"
+  className="inline-flex min-h-11 items-center border border-foreground/40 px-4 text-sm font-medium hover:bg-secondary focus-visible:outline-3 focus-visible:outline-offset-3 focus-visible:outline-ring"
+>
+  Login
+</a>
       </div>
     </header>
   );
